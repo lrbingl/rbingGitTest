@@ -1,0 +1,2 @@
+# rbingGitTest
+self-test ok
